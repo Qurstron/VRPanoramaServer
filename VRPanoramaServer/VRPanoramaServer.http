@@ -1,0 +1,6 @@
+@VRPanoramaServer_HostAddress = http://localhost:5072
+
+GET {{VRPanoramaServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
