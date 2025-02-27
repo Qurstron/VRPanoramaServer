@@ -1,10 +1,6 @@
-using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Storage.ValueConversion.Internal;
-using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
-using VRPanoramaServer;
 using VRPanoramaServer.Controllers;
 using VRPanoramaServer.Database;
 using VRPanoramaServer.Extensions;
